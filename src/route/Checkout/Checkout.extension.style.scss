@@ -1,0 +1,35 @@
+.checkout-overriding {
+    display: flex;
+    justify-content: center;
+    column-gap: 20em;
+    padding: 3em 0;
+
+}
+
+.checkout-steps {
+    display: flex;
+    text-align: center;
+}
+
+.checkout-line {
+    text-decoration: line-through;
+}
+
+.checkout-point {
+    
+}
+
+.checkout-point__number {
+    width: 50px;
+    min-height: 50px;
+    border-radius: 50%;
+    background-color: #f26323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.checkout-point__title {
+
+}
